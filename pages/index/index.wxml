@@ -12,7 +12,7 @@
         <image class='weather_icon_image' src='{{todyIcon}}'></image>
         <view class='lastUpdateDate'>最后更新：{{update}}</view>
       </view>
-      
+
     </view>
   </view>
   <view class="weather today">

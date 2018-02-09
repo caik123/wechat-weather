@@ -62,5 +62,5 @@
 .version {
   font-size: 10px;
   text-align: center;
-  align-self:flex-end;
+  align-self: flex-end;
 }
