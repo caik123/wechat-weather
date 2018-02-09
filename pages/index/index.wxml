@@ -43,5 +43,5 @@
       </view>
     </view>
   </view>
-  <view class='version' bindtap='versionClick'>版本号：v1.0.4 by CK</view>
+  <view class='version' bindtap='versionClick'>版本号：v1.0.4 by GhostKang</view>
 </view>
