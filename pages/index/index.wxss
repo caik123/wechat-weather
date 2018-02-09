@@ -1,0 +1,66 @@
+/**index.wxss**/
+
+.container {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 15px;
+  box-sizing: border-box;
+}
+
+.weather {
+  height: 110px;
+  width: 100%;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  color: #fff;
+  padding: 5px 15px;
+  display: flex;
+  font-size: 14px;
+  box-sizing: border-box;
+  align-items: center;
+}
+
+.yesterday {
+  background-color: #30bcaf;
+}
+
+.today {
+  background-color: #78a4be;
+}
+
+.tomorrow {
+  background-color: #fcb654;
+}
+
+.cond_txt {
+  font-size: 14px;
+}
+
+.tmp {
+  font-weight: bold;
+}
+
+.weather_icon {
+  align-items: center;
+  margin-left: 50px;
+}
+
+.weather_icon_image {
+  width: 75px;
+  height: 75px;
+}
+
+.lastUpdateDate {
+  font-size: 10px;
+  text-align: center;
+}
+
+.version {
+  font-size: 10px;
+  text-align: center;
+  align-self:flex-end;
+}

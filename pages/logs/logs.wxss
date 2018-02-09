@@ -1,0 +1,12 @@
+.contain {
+  flex: 1;
+  flex-direction: column;
+  align-content: center;
+  align-items: center;
+}
+
+.pic {
+  width: 360px;
+  height: 575px;
+  background-color: #eee;
+}
